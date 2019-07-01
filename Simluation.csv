@@ -1,0 +1,91 @@
+<bound method DataFrame.to_csv of        Simulation Name Trial Number Single Peptide Charge Number of Peptides  \
+0   trial1_1-1_swp-cbd            1                    -1                  5   
+1   trial2_1-1_swp-cbd            2                    -1                  5   
+2   trial3_1-1_swp-cbd            3                    -1                  5   
+3   trial1_1-2_swp-cbd            1                    -1                  5   
+4   trial2_1-2_swp-cbd            2                    -1                  5   
+5   trial3_1-2_swp-cbd            3                    -1                  5   
+6   trial1_1-3_swp-cbd            1                    -1                  5   
+7   trial2_1-3_swp-cbd            2                    -1                  5   
+8   trial3_1-3_swp-cbd            3                    -1                  5   
+9   trial1_1-4_swp-cbd            1                    -1                  5   
+10  trial2_1-4_swp-cbd            2                    -1                  5   
+11  trial3_1-4_swp-cbd            3                    -1                  5   
+12  trial1_1-5_swp-cbd            1                    -1                  5   
+13  trial2_1-5_swp-cbd            2                    -1                  5   
+14  trial3_1-5_swp-cbd            3                    -1                  5   
+15  trial1_1-1_swp-thc            1                    -1                  5   
+16  trial2_1-1_swp-thc            2                    -1                  5   
+17  trial3_1-1_swp-thc            3                    -1                  5   
+18          trial1_swp            1                    -1                  5   
+19          trial2_swp            2                    -1                  5   
+20          trial3_swp            3                    -1                  5   
+
+   Multiple Peptide Charge Number of Ions Added New System Charge  \
+0                       -5                    5                 0   
+1                       -5                    5                 0   
+2                       -5                    5                 0   
+3                       -5                    0                -5   
+4                       -5                    0                -5   
+5                       -5                    0                -5   
+6                       -5                    0                -5   
+7                       -5                    0                -5   
+8                       -5                    0                -5   
+9                       -5                    0                -5   
+10                      -5                    0                -5   
+11                      -5                    0                -5   
+12                      -5                    0                -5   
+13                      -5                    0                -5   
+14                      -5                    0                -5   
+15                      -5                    5                 0   
+16                      -5                    5                 0   
+17                      -5                    5                 0   
+18                      -5                    5                 0   
+19                      -5                    5                 0   
+20                      -5                    5                 0   
+
+   Number of THC/CBD Molecules Added Number of Waters  \
+0                                  5            16360   
+1                                  5            16360   
+2                                  5            16360   
+3                                 10            16258   
+4                                 10            16258   
+5                                 10            16258   
+6                                 15            16185   
+7                                 15            16185   
+8                                 15            16185   
+9                                 20            16076   
+10                                20            16076   
+11                                20            16076   
+12                                25            15990   
+13                                25            15990   
+14                                25            15990   
+15                                 5            16382   
+16                                 5            16382   
+17                                 5            16382   
+18                                 0            16467   
+19                                 0            16467   
+20                                 0            16467   
+
+   Concentration [mg/kg] of THC/CBD  
+0                           5334.78  
+1                           5334.78  
+2                           5334.78  
+3                           10736.5  
+4                           10736.5  
+5                           10736.5  
+6                           16177.4  
+7                           16177.4  
+8                           16177.4  
+9                           21716.1  
+10                          21716.1  
+11                          21716.1  
+12                          27291.1  
+13                          27291.1  
+14                          27291.1  
+15                          5327.62  
+16                          5327.62  
+17                          5327.62  
+18                                0  
+19                                0  
+20                                0  >
